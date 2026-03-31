@@ -1,4 +1,4 @@
-# 👕 CustomWear - Premium Outfit Studio
+# 👕 CustomWear - Outfit Studio
 
 A modern, minimalist, and interactive web application for customizing premium blank apparel. Built with a focus on luxury UI/UX, seamless animations, and high-performance state management.
 
