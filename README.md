@@ -2,7 +2,8 @@
 
 A modern, minimalist, and interactive web application for customizing premium blank apparel. Built with a focus on luxury UI/UX, seamless animations, and high-performance state management.
 
-![CustomWear Preview](/public/wearable/baju1.png) ## ✨ Key Features
+![CustomWear Preview](/public/wearable/baju1.png) 
+## ✨ Key Features
 - **Interactive Outfit Studio:** Real-time color customization using advanced CSS `mix-blend-mode`.
 - **Dynamic Category Filter:** Seamlessly switch between Tops, Outerwear, and Bottoms.
 - **Global Cart State:** Built with Zustand for lightning-fast cart management without prop-drilling.
